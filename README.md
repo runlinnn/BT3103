@@ -6,3 +6,4 @@ NUS Business Analytics course
 =======
 "This line will be replaced" 
 >>>>>>> runlin
+"This line will cause conflicts" 
